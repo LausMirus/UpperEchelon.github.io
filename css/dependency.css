@@ -1,10 +1,10 @@
 
 @font-face {
     font-family: typewritter;
-    src: url('/fonts/cmu.typewriter-text-light.ttf');
+    src: url('../fonts/cmu.typewriter-text-light.ttf');
 }
 
 @font-face {
     font-family: bold_1;
-    src: url('/fonts/GreaterTheory.ttf');
+    src: url('../fonts/GreaterTheory.ttf');
 }
