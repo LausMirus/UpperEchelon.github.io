@@ -18,23 +18,23 @@
     const title = document.querySelector('#title');
     //_____________________________________________________________________________________________//
     function changeBg1() {
-        change.style.backgroundImage = "url('/images/main.jpeg')";
+        change.style.backgroundImage = "url('./images/main.jpeg')";
         title.style.opacity = .2;
     }
     function changeBg2() {
-        change.style.backgroundImage = "url('/images/app_manager.jpeg')";
+        change.style.backgroundImage = "url('./images/app_manager.jpeg')";
         title.style.opacity = .2;
     }
     function changeBg3() {
-        change.style.backgroundImage = "url('/images/calender.jpeg')";
+        change.style.backgroundImage = "url('./images/calender.jpeg')";
         title.style.opacity = .2;
     }
     function changeBg4() {
-        change.style.backgroundImage = "url('/images/sysMonitor.jpeg')";
+        change.style.backgroundImage = "url('./images/sysMonitor.jpeg')";
         title.style.opacity = .2;
     }
     function changeBg5() {
-        change.style.backgroundImage = "url('/images/terminal.jpeg')";
+        change.style.backgroundImage = "url('./images/terminal.jpeg')";
         title.style.opacity = .2;
     }
     //_____________________________Reset Background ____________________________________________________
